@@ -223,6 +223,10 @@ Interaction analysis was performed using **BIOVIA Discovery Studio Client**, spe
 
 Finally, the recorded interactions across all four targets were compared to identify the ligands showing predicted **selective inhibitory activity** — i.e., strong predicted inhibition of MMP-9 and COX-2 without corresponding inhibition of EGFR and VEGFR-2. Detailed results and interaction diagrams for each target are available in the [`interaction analysis/`](./interaction%20analysis) folder.
 
+## Docking Results
+This section gives a overview into the binding affinity results of each of the docking with the four receptors. They have been sorted by the highest to least negative binding energies.
+![docking-score](interaction%20analysis/bindingaff.png)
+
 ## Interaction Analysis
 
 This section presents the residue-level interaction analysis for each target, comparing the reference (co-crystallized) inhibitor against the top-ranked docked ligands.
