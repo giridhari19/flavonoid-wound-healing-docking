@@ -225,6 +225,7 @@ Finally, the recorded interactions across all four targets were compared to iden
 
 ## Docking Results
 This section gives a overview into the binding affinity results of each of the docking with the four receptors. They have been sorted by the highest to least negative binding energies.
+
 ![docking-score](interaction%20analysis/bindingaff.png)
 
 ## Interaction Analysis
